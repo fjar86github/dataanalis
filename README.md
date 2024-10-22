@@ -35,7 +35,7 @@ Repositori ini, saya gunakan untuk menyimpan dan berbagi hasil pembelajaran meng
 <!-- # Learn -->
 <!-- <br /> -->
   
-[PYTHON for Data Professional Beginner - Part 1](https://github.com/fjar86github/Data-Analyst-DQLab/blob/main/Python/Python_for_Data_Professional_Beginner_Part_1.ipynb)
+[PYTHON for Data Professional Beginner - Part 1](Python/Python_for_Data_Professional_Beginner_Part_1.ipynb)
   <!-- <br /> -->
 [PYTHON for Data Professional Beginner - Part 2](https://github.com/fjar86github/Data-Analyst-DQLab/blob/main/Python/Python_for_Data_Professional_Beginner_Part_2.ipynb)
   <!-- <br /> -->
