@@ -82,3 +82,6 @@ Repositori ini, saya gunakan untuk menyimpan dan berbagi hasil pembelajaran meng
 [Project Data Analysis for B2B Retail Customer Analytics Report](https://github.com/fjar86github/dataanalis/blob/main/Projects/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.ipynb)
 
 <br />
+
+
+https://github.com/AngelSanchezT/books-1
